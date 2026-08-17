@@ -1,25 +1,23 @@
 Modelo adaptado.
 
-Crie a ideia de um Educador Financeiro Inteligente voltado para [Jovens adultos indo morar sozinhos pela primeira vez].
+Crie a ideia de um Educador Financeiro Inteligente voltado para jovens adultos que estão indo morar sozinhos pela primeira vez.
 
-O principal problema dessa pessoa é [Organização].
+O principal problema dessa pessoa é a dificuldade de organização financeira diante das novas responsabilidades e gastos.
 
-A solução deve ajudar o usuário a [Se organizar, e fazer sobrar dinheiro].
+A solução deve ajudar o usuário a se organizar financeiramente e fazer o dinheiro sobrar no final do mês.
 
-O sistema deve se comunicar de forma [Clara e Direta].
-
+O sistema deve se comunicar de forma clara e direta.
 
 As principais funcionalidades devem incluir:
 
-1. [Compreensão]
-2. [Direto]
-3. [Gentil]
+1. Compreender o contexto e os hábitos financeiros do usuário.
+2. Oferecer recomendações diretas e práticas.
+3. Orientar o usuário de forma gentil e sem julgamentos.
 
+A IA deve adaptar as recomendações com base no histórico de gastos do usuário.
 
-A IA deve adaptar as recomendações com base em [Histórico de gastos].
+Evite respostas óbvias, como simplesmente dizer que o usuário não precisa comprar algo que deseja. Por exemplo, em vez de dizer que ele não precisa comprar uma blusa que tanto quer, a IA pode considerar que a pessoa está trabalhando bastante e merece comprar algo que queira, mas mostrar como essa compra pode ser encaixada no orçamento sem prejudicar seus objetivos.
 
-Evite respostas [Óbvias, do tipo: você não precisa comprar essa blusa que tanto quer. Poderia responder que a pessoa está trabalhando bastante e merece comprar algo que ela queira e mostra como].
-
-As sugestões devem ser apresentadas no formato [Categorias de gastos, e objetivo final, simples e direto].
+As sugestões devem ser apresentadas de forma simples e direta, organizadas por categorias de gastos e relacionadas ao objetivo financeiro final do usuário.
 
 
